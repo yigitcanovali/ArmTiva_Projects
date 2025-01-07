@@ -1,0 +1,8 @@
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.MainForm.resources
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.csproj.GenerateResource.Cache
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.exe.config
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.exe
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\bin\Debug\Video.pdb
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.exe
+C:\Users\boss\Documents\SharpDevelop Projects\Video\Video\obj\Debug\Video.pdb
