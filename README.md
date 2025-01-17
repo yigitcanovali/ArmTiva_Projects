@@ -32,7 +32,7 @@
 ### English
 - **Description:** PWM (Pulse Width Modulation) is used to adjust the brightness of an LED. A PWM signal with a specific period and variable duty cycle is generated.
   
-## 4. **seriportdenemesi**
+##  **seriportdenemesi**
 ### Türkçe
 - **Açıklama:** Mikrodenetleyici ile seri port haberleşmesi sağlanmıştır. UART kullanılarak bilgisayar ve mikrodenetleyici arasında veri alışverişi gerçekleştirilmiştir.
 ### English
